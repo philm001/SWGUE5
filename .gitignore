@@ -8,3 +8,4 @@ obj/
 *-Debug.*
 FileOpenOrder/
 Binaries/
+*.7z
